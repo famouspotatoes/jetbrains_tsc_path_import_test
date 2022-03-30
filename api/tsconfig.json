@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "baseUrl": "./src",
+    "outDir": "dist",
+  },
+  "references": [
+    {
+      "path": "../client"
+    }
+  ],
+  "include": ["src"]
+}

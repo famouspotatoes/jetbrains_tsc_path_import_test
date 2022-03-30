@@ -1,0 +1,8 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
